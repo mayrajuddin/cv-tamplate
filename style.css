@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.left_colum,
+.right_colum,
+.lcolum-top,
+.lcolum-bottom,
+footer {
+    display: block;
+    overflow: hidden;
+}
+
+p {
+    margin: 0.5em;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    margin: 10px 0px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+body,
+.lcolum-top,
+.row-padding,
+.pbar {
+    background-color: #f1f1f1 !important;
+}
+
+h6,
+.lefticon,
+.lbicon,
+.fa-icon {
+    color: #009688;
+}
+
+.text-color {
+    color: #000 !important;
+}
+
+.c-active,
+.text-bottom,
+.pbarf,
+footer,
+.icon a {
+    color: #fff;
+}
+
+.c-active,
+.pbarf {
+    background-color: #009688;
+}
+
+.left_colum,
+.work_content,
+.edu_content,
+.lcolum-bottom {
+    background-color: #fff !important;
+}
+
+.text-gray {
+    color: #757575;
+}
+
+.work_content,
+.lcolum-bottom,
+.text-bottom,
+footer {
+    padding: 0.01em 16px
+}
+
+.lefticon {
+    display: inline-block;
+    font-size: 15px;
+}
+
+.con-margin-right {
+    margin-right: 16px;
+}
+
+header {}
+
+.b-margin-top,
+footer,
+.edu_content {
+    margin-top: 16px !important;
+}
+
+.row-padding,
+.right_colum,
+.lcolum-top {
+    padding: 0 8px !important;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #000 !important;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+.left_colum {
+    float: left;
+
+}
+
+.lcolum-top {
+    height: 333px;
+    position: relative;
+}
+
+.lcolum-top img {
+    width: 100%;
+
+}
+
+.text-bottom {
+    position: absolute;
+    bottom: 0;
+
+}
+
+.lcolum-bottom {}
+
+hr {
+    border: 0px;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+}
+
+.sicon {
+    font-size: 18px;
+}
+
+.pbarf {
+    text-align: center;
+    font-size: 12px;
+
+}
+
+.roundx {
+    border-radius: 16px;
+}
+
+.right_colum {}
+
+.work_content {}
+
+.edu_content {}
+
+.fa-icon {
+    font-size: 36px;
+    width: 73px;
+    text-align: center;
+}
+
+.padding-16 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.content {
+    padding: 0.01em 30px;
+}
+
+.c-active {
+    padding: 2px 8px 2px 8px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+footer {
+    background-color: #009688;
+    text-align: center;
+
+}
+
+.icon {}
+
+.icon a {
+    font-size: 15px;
+    margin-right: 1px;
+}
